@@ -1,0 +1,3 @@
+Graffiti 576 284 608 308
+Graffiti 545 286 572 312
+Graffiti 512 282 541 307

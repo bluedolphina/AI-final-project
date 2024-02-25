@@ -1,0 +1,3 @@
+Graffiti 358 305 382 323
+Graffiti 438 315 463 337
+Graffiti 547 331 581 357

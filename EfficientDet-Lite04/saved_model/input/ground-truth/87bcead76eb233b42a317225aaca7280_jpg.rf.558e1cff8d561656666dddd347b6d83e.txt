@@ -1,0 +1,6 @@
+Graffiti 281 268 302 297
+Graffiti 227 223 276 299
+Graffiti 184 230 212 303
+Graffiti 76 266 147 324
+Graffiti 150 248 170 304
+Graffiti 293 249 303 264
