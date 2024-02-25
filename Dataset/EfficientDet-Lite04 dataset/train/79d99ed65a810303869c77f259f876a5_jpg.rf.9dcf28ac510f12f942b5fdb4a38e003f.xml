@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>79d99ed65a810303869c77f259f876a5_jpg.rf.9dcf28ac510f12f942b5fdb4a38e003f.jpg</filename>
+	<path>79d99ed65a810303869c77f259f876a5_jpg.rf.9dcf28ac510f12f942b5fdb4a38e003f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Graffiti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>4</xmin>
+			<xmax>33</xmax>
+			<ymin>174</ymin>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>
